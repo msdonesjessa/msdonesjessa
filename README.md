@@ -6,7 +6,7 @@
     
 <div align='center'>
 <h3>Skillset</h3> 
-<img src="https://skillicons.dev/icons?i=figma,css,html,php,laravel&theme=light" />
+<img src="https://skillicons.dev/icons?i=figma,css,html&theme=light" />
  
 <br>
 </div>
